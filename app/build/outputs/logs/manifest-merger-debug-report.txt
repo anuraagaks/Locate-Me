@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anuraag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b94e478f40e93c32f7f746afac205bd9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/272d92dc42464748c759cd0161f22577/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:10:5-40:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anuraag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b94e478f40e93c32f7f746afac205bd9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anuraag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b94e478f40e93c32f7f746afac205bd9/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/272d92dc42464748c759cd0161f22577/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/272d92dc42464748c759cd0161f22577/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:14:9-45
+	android:icon
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:12:9-40
+	android:allowBackup
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:16:9-40
+activity#saikarthik.locateme.GPSActivity
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:17:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:21:27-74
+activity#saikarthik.locateme.Init
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:24:9-42
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:24:19-39
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:34:13-58
+activity#saikarthik.locateme.GoogleMaps
+ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:37:9-39:75
+	android:label
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml:38:13-39
+uses-sdk
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anuraag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b94e478f40e93c32f7f746afac205bd9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anuraag/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b94e478f40e93c32f7f746afac205bd9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:23:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/272d92dc42464748c759cd0161f22577/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/272d92dc42464748c759cd0161f22577/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuraag/Drive: C/AndroidStudioProjects/LocateMe/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ec9d7032c94167baa8bfa3291395f235/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/613cf08482ce51ce831a2e76dacc2e9b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/97c81e0d0c9d864725d35df0f14b8f0f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/754027826e38980386d564016697f62e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/852a415644e756909a6f70ebe33f5544/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/f60d101f8737bf4af12985e083d8149e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd65f4ac912c68c83a61830dac1f2285/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9433653a8f8ef3ee16cc86274817b71d/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/369d014e937e761b336df49bceb6f7bd/AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5b46e20e8ef7598b4db2139d27f6aafd/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/866c5afa5095cea430f1e45ce03596e5/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/anuraag/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7b55dec64653b70de14c13561f95bf8b/AndroidManifest.xml:20:20-65
