@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GPSActivity"
+    android:weightSum="1"
+    android:id="@+id/rooot"
+    android:baselineAligned="false">
+
+    <Button
+        android:id="@+id/getLocation"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:background="@drawable/bstyle2"
+        android:padding="20dp"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Get Location" />
+
+
+    <TextView
+        android:id="@+id/result"
+        android:textColor="#ff0000"
+        android:textSize="18dp"
+        android:layout_below="@id/getLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/timepass"
+        android:textSize="18dp"
+        android:textColor="#ff0000"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/result" />
+
+    <Button
+        android:id="@+id/nor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="North"
+        android:textAllCaps="false"
+        android:layout_margin="2dp"
+        android:background="@drawable/bs2"
+        android:layout_below="@id/timepass"/>
+
+    <Button
+        android:id="@+id/sou"
+        android:layout_below="@id/timepass"
+        android:layout_toRightOf="@id/nor"
+        android:text="South"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_margin="2dp"
+        android:background="@drawable/bs2"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/eas"
+        android:layout_below="@id/timepass"
+        android:layout_toRightOf="@id/sou"
+        android:text="East"
+        android:textAllCaps="false"
+        android:layout_margin="2dp"
+        android:background="@drawable/bs2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/wes"
+        android:layout_below="@id/timepass"
+        android:layout_toRightOf="@id/eas"
+        android:text="West"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_margin="2dp"
+        android:background="@drawable/bs2"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/maps"
+        android:background="@drawable/bs2"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:text="View in Google Maps"
+        android:layout_below="@id/wes"
+
+        />
+
+</RelativeLayout>
